@@ -1,0 +1,34 @@
+Column,ValidityPercentage (%)
+PatmAv,47
+TairAv,97
+wetTemperature,0
+RHAv,63
+WD,97
+WS (knots),95
+visibility,0
+Cloudiness,20
+dewPoint,30
+WS (Beaufort),20
+TairMax,47
+TairMin,47
+WSmax,95
+Rain,88
+Location,100
+RainDur60,47
+TempFuelAv,47
+RHFuelAv,45
+TsoilAv,47
+BatteryVolt,47
+WS(m per s),45
+SolRadAv,47
+IRRadAv,47
+TempFuelMax,47
+RHFuelMax,45
+TsoilMax,47
+RHMax,42
+PatmMax,47
+TempFuelMin,47
+RHFuelMin,45
+TsoilMin,47
+RHMin,42
+PatmMin,47

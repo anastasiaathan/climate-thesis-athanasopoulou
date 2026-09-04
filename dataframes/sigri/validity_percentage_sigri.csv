@@ -1,0 +1,27 @@
+Column,Validity Raw (%),Validity Filtered (%),dropped from QC
+Rain,100.0,99.93,0.07
+RainDur60,100.0,99.52,0.48
+TempFuelAv,100.0,100.0,0.0
+TempFuelMax,100.0,100.0,0.0
+TempFuelMin,100.0,100.0,0.0
+RHFuelAv,100.0,82.31,17.69
+RHFuelMax,100.0,81.73,18.27
+RHFuelMin,100.0,81.91,18.09
+TsoilAv,100.0,94.04,5.96
+TsoilMax,100.0,94.04,5.96
+TsoilMin,100.0,94.05,5.95
+BatteryVolt,100.0,99.96,0.04
+TairAv,100.0,99.98,0.02
+RHAv,100.0,88.74,11.26
+WS(m per s),100.0,90.85,9.15
+WD,100.0,100.0,0.0
+PatmAv,100.0,99.98,0.02
+TairMax,100.0,99.98,0.02
+TairMin,100.0,99.99,0.01
+RHMax,100.0,88.74,11.26
+RHMin,100.0,88.73,11.27
+WSmax,100.0,18.76,81.24
+PatmMax,100.0,99.98,0.02
+PatmMin,100.0,99.99,0.01
+SolRadAv,100.0,99.99,0.01
+IRRadAv,100.0,99.98,0.02
